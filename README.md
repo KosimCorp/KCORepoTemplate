@@ -1,2 +1,4 @@
 # KCORepoTemplate
-Template Untuk Repository
+
+Aplikasi Ini Dibuat Kosim Corp.
+Semoga Bermanfaat :)
